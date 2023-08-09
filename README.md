@@ -1,4 +1,5 @@
-[![MasterHead](https://img.mit.edu/files/images/202211/MIT-Neural-Networks-SL.gif)]
+
+[![MasterHead](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1)]
 <h1 align="center">Hi 👋, I am Aisam Khan Effendi</h1>
 <h3 align="center">An insightful data scientist intrigued by the possibilities of AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
